@@ -1,0 +1,5 @@
+{
+  "name": "FAST",
+  "description": "FAST is a HTMX framework and SSG built on top of Eleventy.",
+  "keywords": "htmx, eleventy, 11ty, tailwind, ssg"
+}
