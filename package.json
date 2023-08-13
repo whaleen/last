@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "npm-run-all -p dev:*",
+    "dev": "npm-run-all -p dev:*",
     "build": "run-s build:*",
     "dev:11ty": "eleventy --serve --watch",
     "dev:css": "tailwindcss -i app/styles/main.css -o .last/main.css --watch --postcss",
